@@ -1,0 +1,44 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #fff;
+  min-height: 100vh;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.card-container {
+  background-color: #323f4b;
+  width: 60%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: Bree serif;
+}
+.main-container {
+  width: 89%;
+  color: #ffffff;
+  font-weight: 400;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-top: 30px;
+}
+.list-items {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.heading {
+  margin-left: 40px;
+}
+.event-status {
+  width: 40%;
+  color: #000;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}

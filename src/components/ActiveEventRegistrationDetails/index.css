@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.logo {
+  width: 90%;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.event-button {
+  width: 100%;
+  border: none;
+  outline: none;
+  background-color: blue;
+  height: 40px;
+  color: #fff;
+  cursor: pointer;
+}
+.res-cont {
+  width: 80%;
+}

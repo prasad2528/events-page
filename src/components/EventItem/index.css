@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.image {
+  width: 100%;
+}
+.each-list {
+  margin-bottom: 15px;
+}
+.button {
+  outline: none;
+  border: none;
+  width: 350px;
+  border-radius: 8px;
+  background-color: transparent;
+}
